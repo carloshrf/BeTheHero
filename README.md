@@ -1,9 +1,9 @@
 # Welcome to "Be the Hero"
 **Be the Hero** is an application developed in the week omnistack 11 offered by **Rocketseat**, the application is based on the registration of incidents by NGOs that are looking for "heroes" who can save each one. 
 
-The backend, frontend and mobile application were developed, is needed to execute **yarn** at the directory root of all projects to download all necessary dependencies. 
+The backend, frontend and mobile application were developed, is needed to execute `# yarn` at the directory root of all projects to download all necessary dependencies. 
 
-To start the services, just execute with a prompt the command **"yarn start"** or **"npm start"** also at the root of each one's directory. In the backend it is necessary to execute an additional command, **"npx knex migrate: latest"** to migrate all the tables to the  **sqlite** database.
+To start the services, just execute with a prompt the command `# yarn start` or `# npm start` also at the root of each one's directory. In the backend it is necessary to execute an additional command, `# npx knex migrate: latest` to migrate all the tables to the  **sqlite** database.
 
 In portuguese: ONG (Organização não Governamental)
 In english: NGO (Non-governamental Organization)
